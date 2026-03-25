@@ -28,7 +28,7 @@ I enjoy working with data to answer questions such as:
 - What drives performance?
 - How can we optimize decisions using data?
 - What patterns are hidden in real-world datasets?
-- 
+  
 ## 🧠 Skills
 
 ### 📊 Data Analysis
